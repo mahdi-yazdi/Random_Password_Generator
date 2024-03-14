@@ -1,1 +1,1 @@
-Simply Random Password Generator using Python
+Simple Random Password Generator using Python
