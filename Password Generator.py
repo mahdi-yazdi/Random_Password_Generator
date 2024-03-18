@@ -10,3 +10,6 @@ def generate_password(length=12):
 password_length = 14 #can adjust length of the password as needed
 random_password = generate_password(password_length)
 print("Random Password:", random_password)
+
+#Example Output:
+#Random Password: oZdZ2YyL79*v.3
